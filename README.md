@@ -6,7 +6,7 @@ Please note that this script uses pyAutoGUI and therefore renders your device us
 # Usage
 1) Clone this repository/ download the zip.
 2) Unzip it and open command prompy/ terminal in the folder.
-3) Enter python3 -m pip install requirements.txt (Python installation required, preferably python 3)
+3) Enter python3 -m pip install -r requirements.txt (Python installation required, preferably python 3)
 4) Enter python3 entabScript.py
 
 # RoadMap
