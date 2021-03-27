@@ -1,4 +1,4 @@
-# Entab-Scraper
+# Entab Opener
 This is a script that automates the process of opening your browser, opening entab (in this case donboscocampuscare.in) and logging in. 
 
 Please note that this script uses pyAutoGUI and therefore renders your device uselesss for as long as the script is running (wont take long, infact after getting past the login screen u can probably resume other activities, DONT CLOSE THE BROWSER THOUGH!)
